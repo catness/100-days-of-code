@@ -4,5 +4,5 @@ Currently I'm working on my personal gamification app (for Android, in Java), wh
 
 I might switch to other projects after completing this one (the app is already functional, but I keep coming up with ideas ;) Or if I'll be stuck with a low-end computer without Android Studio, or for something more urgent, etc... it's a free world :) 
 
-If you've decided to join, see [the official repo](https://github.com/Kallaway/) with all the links, official rules and stuff. 
+If you've decided to join, see [the official repo](https://github.com/kallaway/100-days-of-code) with all the links, official rules and stuff. 
 
