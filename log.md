@@ -23,3 +23,12 @@ This one I did from scratch without any copy/paste, by adding a TextView for the
 * Tried to fix the reordering of subjects; replaced 2 async tasks (updating each subject's position independently) with 1 task (swap positions). The dragging still stops after the first swap. Apparently every change in LiveData causes the adapter to reload all the data, and resets the ItemTouchHelper state of dragging. I don't know how to deal with it yet.
 
 
+### Day 3: 2019-05-03
+
+* Added database export to json, using [Jackson Object Mapper](https://www.codexpedia.com/java/jackson-parser-example-in-android/), and saving it to a [file on external storage](https://developer.android.com/training/data-storage/files).
+
+(Pleasantly surprised how easy it is with the Room database. I didn't have to do anything with SQLite at all, just converted the objects from the view models.)
+
+* Added sending the file as an attachment by email. [Here's how to make the application files accessible.](https://stackoverflow.com/questions/48117511/exposed-beyond-app-through-clipdata-item-geturi) 
+
+(Actually, it should not be necessary to read the file, but sending the json string directly as an attachment didn't work. But it's nice to know how to send files anyway.)
