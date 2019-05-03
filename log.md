@@ -32,3 +32,7 @@ This one I did from scratch without any copy/paste, by adding a TextView for the
 * Added sending the file as an attachment by email. [Here's how to make the application files accessible.](https://stackoverflow.com/questions/48117511/exposed-beyond-app-through-clipdata-item-geturi) 
 
 (Actually, it should not be necessary to read the file, but sending the json string directly as an attachment didn't work. But it's nice to know how to send files anyway.)
+
+Note: the easiest way to pretty-print a json file on command line:
+
+`python3 -m json.tool < FILENAME`
