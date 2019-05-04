@@ -36,3 +36,13 @@ This one I did from scratch without any copy/paste, by adding a TextView for the
 Note: the easiest way to pretty-print a json file on command line:
 
 `python3 -m json.tool < FILENAME`
+
+### Day 4: 2019-05-04
+
+* Added the setting to export database either to external or internal storage or to email (in that case, saving to the cache, and deleting the file afterwards). 
+
+Note: the files can be accessed through Device Explorer in Android Studio; external storage also through Android apps (I use Ghost Commander).
+
+* Added the setting to change the toolbar title throughout all the activities.
+
+(So the user can call it Hogwarts, or Unseen University, or Starfleet Academy, or whatever, according to their theme; without the developer running into any copyright problems.)
