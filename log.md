@@ -46,3 +46,23 @@ Note: the files can be accessed through Device Explorer in Android Studio; exter
 * Added the setting to change the toolbar title throughout all the activities.
 
 (So the user can call it Hogwarts, or Unseen University, or Starfleet Academy, or whatever, according to their theme; without the developer running into any copyright problems.)
+
+
+### Day 5: 2019-05-05
+
+* Refactored database exporting as an Async task.
+
+* Added the Import option, which deletes the database and imports from a predefined .json file (previously exported and placed to the directory manually - there's really no way to make it both safe and user-friendly).
+
+* Added bulk insert methods and synchronized methods to the data repository, to use with Import, which is an Async task anyway.
+
+* Renamed debug preference section to development; added preferences to show/hide Export and Import in the main menu.
+
+(Normally, export/import should be rarely used - e.g. only upon reinstalling the app on a new phone. Or if something gets screwed up... ;)
+
+* Removed the export to internal memory option because it's useless; moved the export mode setting to the development settings.
+
+* Replaced the graphics for level-up dialog with royalty free graphics. (Against all the design principles, I'm using an ornamental frame, like in old adventure games, because I like eye candy.)
+
+Note: the [online 9-patch generator](http://romannurik.github.io/AndroidAssetStudio/nine-patches.html)is amazingly user-friendly!
+
