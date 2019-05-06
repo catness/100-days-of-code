@@ -66,3 +66,7 @@ Note: the files can be accessed through Device Explorer in Android Studio; exter
 
 Note: the [online 9-patch generator](http://romannurik.github.io/AndroidAssetStudio/nine-patches.html)is amazingly user-friendly!
 
+### Day 6: 2019-05-06
+
+* Added the dark mode! And the setting to toggle between dark and light mode in preferences, [according to this explanation](https://carthrottle.io/how-to-implement-flexible-night-mode-in-your-android-app-f00f0f83b70e). Still need to fix a few elements.
+
