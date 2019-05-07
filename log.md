@@ -70,3 +70,9 @@ Note: the [online 9-patch generator](http://romannurik.github.io/AndroidAssetStu
 
 * Added the dark mode! And the setting to toggle between dark and light mode in preferences, [according to this explanation](https://carthrottle.io/how-to-implement-flexible-night-mode-in-your-android-app-f00f0f83b70e). Still need to fix a few elements.
 
+### Day 7: 2019-05-07
+
+* Fixed the rest of the dark mode settings: the levelup message, calendar and preferences editText dialog. The latter took hours (here's one resource: [Customize Alert Dialog style](http://joerg-richter.fuyosoft.com/?p=181) ) but it still has a weird white frame around it, which I'm unable to eliminate no matter what. But for now, it's good enough.
+
+Note: the 9-patch png images can be re-colored in the image editor, but the 1-pixel border around them has to stay black, otherwise the project doesn't even compile!
+
