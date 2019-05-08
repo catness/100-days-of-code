@@ -76,3 +76,8 @@ Note: the [online 9-patch generator](http://romannurik.github.io/AndroidAssetStu
 
 Note: the 9-patch png images can be re-colored in the image editor, but the 1-pixel border around them has to stay black, otherwise the project doesn't even compile!
 
+### Day 8: 2019-05-08
+
+* Added an option of export to SD card if it exists (which is not the same as export to external memory...)
+
+* Started to fix lint warnings. 
