@@ -81,3 +81,10 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 * Added an option of export to SD card if it exists (which is not the same as export to external memory...)
 
 * Started to fix lint warnings. 
+
+### Day 9: 2019-05-09
+
+* Implemented swipe on report calendar day view, to go directly to the next/previous day.
+
+* Fixed a few bugs (e.g. canceling "edit report" from the calendar was returning to the main activity, not to the calendar), and layout problems.
+
