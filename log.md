@@ -88,3 +88,10 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 
 * Fixed a few bugs (e.g. canceling "edit report" from the calendar was returning to the main activity, not to the calendar), and layout problems.
 
+### Day 10: 2019-05-10
+
+* Refactored both report list activities to eliminate duplicate code.
+
+* Implemented swipe on the empty calendar days.
+
+* Removed the Paged adapter on the main screen (it didn't work as expected, and there's no need for it as the Calendar page is more convenient), and added a setting for the max number of reports to show.
