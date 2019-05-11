@@ -95,3 +95,9 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 * Implemented swipe on the empty calendar days.
 
 * Removed the Paged adapter on the main screen (it didn't work as expected, and there's no need for it as the Calendar page is more convenient), and added a setting for the max number of reports to show.
+
+### Day 11: 2019-05-11
+
+* Replaced the text "edit datetime" field for reports with date and time picker widgets.
+
+* Removed the export database dependency on LiveData, made it fully asynchronous, cleaned up export/import code.
