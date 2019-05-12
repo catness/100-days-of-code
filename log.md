@@ -101,3 +101,13 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 * Replaced the text "edit datetime" field for reports with date and time picker widgets.
 
 * Removed the export database dependency on LiveData, made it fully asynchronous, cleaned up export/import code.
+
+### Day 12: 2019-05-12
+
+* Replaced the color picker with a better one which supports the dark mode.
+
+* Fixed the init issues upon (re)installing the app.
+
+* Fixed the drag&drop of subjects, though not completely.
+
+* Fixed a few layout issues.
