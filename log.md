@@ -111,3 +111,9 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 * Fixed the drag&drop of subjects, though not completely.
 
 * Fixed a few layout issues.
+
+### Day 13: 2019-05-13
+
+* Fixed the drag&drop of subjects for good!! It was damn tricky to get rid of the flicker while the data is updating.
+
+* Fixed the issue with initial color of the new subject.
