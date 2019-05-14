@@ -117,3 +117,13 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 * Fixed the drag&drop of subjects for good!! It was damn tricky to get rid of the flicker while the data is updating.
 
 * Fixed the issue with initial color of the new subject.
+
+### Day 14: 2019-05-14
+
+* Improved the display of current day's points. 
+
+* Added numeric types to EditText whenever necessary. 
+
+* Started refactoring and cleanup of the code. (We're on the home stretch!)
+
+(Note: besides ./gradlew lint, there's an Android Studio tool : right-click -> Analyze -> Inspect code)
