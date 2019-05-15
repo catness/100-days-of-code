@@ -127,3 +127,13 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 * Started refactoring and cleanup of the code. (We're on the home stretch!)
 
 (Note: besides ./gradlew lint, there's an Android Studio tool : right-click -> Analyze -> Inspect code)
+
+### Day 15: 2019-05-15
+
+* Fixed the points display bug caused by SimpleDateFormat being not thread safe (!!!) by replacing it with DateTimeFormatter. 
+
+* Fixed potential layout overlaps.
+
+* Refactored the code into different directories/packages.
+
+* Continuing with the code & resources cleanup.
