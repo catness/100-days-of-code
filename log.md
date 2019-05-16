@@ -11,7 +11,6 @@ I created the Android Studio "Settings Activity" to ensure that I'm not using an
 This one I did from scratch without any copy/paste, by adding a TextView for the date to the report list item, and hiding it in the adapter for all the items except those where the date changes.
 
 
-
 ### Day 2: 2019-05-02
 
 * Added the Debug section to settings, with the option to show/hide the Reset item in the main menu. (An additional protection from deleting stuff by mistake.) Here's the [resource for icons](https://material.io/tools/icons/).
@@ -137,3 +136,14 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 * Refactored the code into different directories/packages.
 
 * Continuing with the code & resources cleanup.
+
+### Day 16: 2019-05-16
+
+* Fixed the calendar/daily reports so they return to the correct month
+
+* Fixed the "static leak" warnings in Async tasks by using the weak references
+
+* Moved export & import tasks to their own files
+
+* Finished refactoring & cleanup for now
+
