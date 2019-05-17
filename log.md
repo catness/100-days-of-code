@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+## Project : Classroom points app
+
 ### Day 1: 2019-05-01
 
 * Added the Settings menu with one setting so far, to turn the sound off/on. 
@@ -146,4 +148,17 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 * Moved export & import tasks to their own files
 
 * Finished refactoring & cleanup for now
+
+
+## New project : shape game app
+
+### Day 17: 2019-05-17
+
+* Set up the initial app
+
+* Tried out custom ttf fonts and gradient color (it works)
+
+* Still experimenting with the layout for the main screen. Grid layout causes problems when adding views dynamically. (And I thought that Android layouts would be easier than LibGDX scene2d...)
+
+
 
