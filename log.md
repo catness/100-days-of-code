@@ -160,5 +160,10 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 
 * Still experimenting with the layout for the main screen. Grid layout causes problems when adding views dynamically. (And I thought that Android layouts would be easier than LibGDX scene2d...)
 
+### Day 18: 2019-05-18
+
+* After a lot of struggle, created a reasonable layout (with dynamically added views) for the main screen, using the functions to get the current screen size, toolbar size etc to calculate the dimensions. So far it's not any easier than with LibGDX.
+
+* Started with the BoardItem class.
 
 
