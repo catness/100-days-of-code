@@ -166,4 +166,8 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 
 * Started with the BoardItem class.
 
+### Day 19: 2019-05-19
 
+* Added BoardPanel and InputPanel (partially) with the appropriate item classes.
+
+* Started implementing the interaction.
