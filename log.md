@@ -171,3 +171,14 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 * Added BoardPanel and InputPanel (partially) with the appropriate item classes.
 
 * Started implementing the interaction.
+
+### Day 20: 2019-05-20
+
+* Added the animated timer bar and connected it to the character input
+
+* Made the characters selectable in any order
+
+* Added more symbols from the font
+
+* Started working on the status panel
+
