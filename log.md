@@ -182,3 +182,4 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 
 * Started working on the status panel
 
+* Added debugging options for the board.
