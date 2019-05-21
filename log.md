@@ -183,3 +183,13 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 * Started working on the status panel
 
 * Added debugging options for the board.
+
+### Day 21: 2019-05-21
+
+* Rescalling the characters to fit the board
+
+* The score panel, updating the score
+
+* Fade in/out for the board characters
+
+* "Game over" message; restarting after game over
