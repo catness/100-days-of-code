@@ -193,3 +193,12 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 * Fade in/out for the board characters
 
 * "Game over" message; restarting after game over
+
+### Day 22: 2019-05-22
+
+* Refactored the code, moving all the gameplay logics from the MainActivity into appropriate classes
+
+* Created a separate class for the progressbar workaround
+
+* Got rid of hardcoded strings and colors
+
