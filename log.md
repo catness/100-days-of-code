@@ -202,3 +202,12 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 
 * Got rid of hardcoded strings and colors
 
+### Day 23: 2019-05-23
+
+* Added the settings menu, with the options to select font, set debug on/off, and change text colors (the last one not implemented yet)
+
+* Refactored the font definitions, moved them to a separate class.
+
+* Implemented font selection from the preferences. 
+
+* Found why it doesn't work with some fonts (1 character is a string.substring of length 2, not 1), didn't fix yet.
