@@ -211,3 +211,14 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 * Implemented font selection from the preferences. 
 
 * Found why it doesn't work with some fonts (1 character is a string.substring of length 2, not 1), didn't fix yet.
+
+
+### Day 24: 2019-05-24
+
+* Fixed the rendering of wide-character fonts
+
+* Implemented changing the text color from the settings (and fixed updating of the preview thumbnail)
+
+* Made the character cell fixed size (still not 100%)
+
+* Added the hint option for debugging
