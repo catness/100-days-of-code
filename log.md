@@ -222,3 +222,7 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 * Made the character cell fixed size (still not 100%)
 
 * Added the hint option for debugging
+
+### Day 25: 2019-05-25
+
+* Started with the Powerup widgets - a complicated layout with a circular progress bar around a symbol. They look ok now, but I still have no idea why they refuse to be resized, why there's extra padding which doesn't go away, and why the only way to fix it seems to be rescaling the layout.
