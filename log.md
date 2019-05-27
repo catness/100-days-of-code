@@ -238,3 +238,18 @@ Note: [A great example of circular progress bar](https://demonuts.com/circular-p
 * Added more fonts, enhanced the appearance of some icons.
 
 * Fixed the bug with "tall" characters.
+
+### Day 27: 2019-05-27
+
+* Refactored glyphs setup, changed the settings menu to load the list dynamically
+
+* Added several parameters to control the fonts dynamically
+
+* Changed the score number to progress bar, added the bonuses indicator 
+
+* Enhanced the hint appearance
+
+* Added more fonts
+
+
+
