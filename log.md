@@ -251,5 +251,17 @@ Note: [A great example of circular progress bar](https://demonuts.com/circular-p
 
 * Added more fonts
 
+### Day 28: 2019-05-28
+
+* Revamped the main layout, extending the powerups panel to the bottom
+
+* Implemented speeding up the timer
+
+* Fixed the timer bar (properly instead of the workaround)
+
+* Added the sample text to test the colors in the settings menu
+
+* Added more fonts
+
 
 
