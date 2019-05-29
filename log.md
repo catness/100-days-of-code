@@ -263,5 +263,14 @@ Note: [A great example of circular progress bar](https://demonuts.com/circular-p
 
 * Added more fonts
 
+### Day 29: 2019-05-29
+
+* Added the SQL database! (Room/LiveData) 
+
+* Now the powerups are stored in / retrieved from the database.
+
+* Added a nice launcher icon.
+
+
 
 
