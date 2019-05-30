@@ -271,6 +271,18 @@ Note: [A great example of circular progress bar](https://demonuts.com/circular-p
 
 * Added a nice launcher icon.
 
+### Day 30: 2019-05-30
 
+* Added the dex activity with the grid view 
+
+* Implemented displaying the font (both UTF-8 and UTF-16) (without the database yet) according to the preferences
+
+* Added opening the browser to show extended info for the selected character
+
+Notes:
+- https://www.raywenderlich.com/995-android-gridview-tutorial
+- https://stackoverflow.com/questions/14171755/custom-scrollbar-android (though doesn't work with the fastscroll)
+- https://hajsoftutorial.com/java-supplementary-characters-utf-16-encoding
+- https://graphemica.com
 
 
