@@ -286,3 +286,12 @@ Notes:
 - https://graphemica.com
 
 
+### Day 31: 2019-05-31
+
+* Created the database interface for the characters
+
+* Added all the fonts except for utf16 for now
+
+* Added the list of selected characters sorted by count after each gameover
+
+* Saving several random characters to the database upon gameover (except for utf16)
