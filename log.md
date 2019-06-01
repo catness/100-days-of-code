@@ -295,3 +295,13 @@ Notes:
 * Added the list of selected characters sorted by count after each gameover
 
 * Saving several random characters to the database upon gameover (except for utf16)
+
+### Day 32: 2019-06-01
+
+* Connected the dex activity to the database
+
+* Updated the algorithm of picking the characters to save to the db
+
+* Located the problem with characters missing from the font
+
+* Added pause/resume option for debugging
