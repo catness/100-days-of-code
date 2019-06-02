@@ -305,3 +305,17 @@ Notes:
 * Located the problem with characters missing from the font
 
 * Added pause/resume option for debugging
+
+### Day 33: 2019-06-02
+
+* Added all the handling for utf-16 fonts
+
+* Fixed pageback for debugging
+
+* Revamped the dex layout, added stars
+
+* Cleaned up the nonexistent characters
+
+* Added debugging option in the settings to add/remove characters manually
+
+
