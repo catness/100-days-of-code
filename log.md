@@ -319,3 +319,12 @@ Notes:
 * Added debugging option in the settings to add/remove characters manually
 
 
+### Day 34: 2019-06-03
+
+* Added several levels of stars and bonuses, with different colors
+
+* Changed the score calculation to take the bonuses into account
+
+* Updated the way of picking the characters for the dex
+
+
