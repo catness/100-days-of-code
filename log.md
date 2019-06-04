@@ -328,3 +328,10 @@ Notes:
 * Updated the way of picking the characters for the dex
 
 
+### Day 35: 2019-06-04
+
+* Added the gameover popup message - with a nice frame, different text for different levels, and the list of rewards
+
+* Added a color "animation" in case of winning
+
+* Updated the score bonuses 
