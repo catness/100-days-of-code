@@ -335,3 +335,14 @@ Notes:
 * Added a color "animation" in case of winning
 
 * Updated the score bonuses 
+
+
+### Day 36: 2019-06-05
+
+* Added the (sort-of animated) loading screen to wait until the database is initialized
+
+* Added the sound effects and on/off setting
+
+* Fixed the dex layout centering
+
+
