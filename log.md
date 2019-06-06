@@ -346,3 +346,14 @@ Notes:
 * Fixed the dex layout centering
 
 
+### Day 37: 2019-06-06
+
+* Added the settings menu to the dex, implemented all the relevant optoins
+
+* Refactored the levels-colors correspondence 
+
+* Added some fonts
+
+* Fixed the pause option to properly resume
+
+* Fixed closing the gameover message
