@@ -357,3 +357,13 @@ Notes:
 * Fixed the pause option to properly resume
 
 * Fixed closing the gameover message
+
+
+### Day 38: 2019-06-07
+
+* Changed the temporary pause option into a proper powerup
+
+* Split the source files into several packages
+
+* Fixed part of the "code inspect" warnings
+
