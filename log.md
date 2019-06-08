@@ -367,3 +367,9 @@ Notes:
 
 * Fixed part of the "code inspect" warnings
 
+
+### Day 39: 2019-06-08
+
+* Added color animation on the loading screen
+
+* Continuing with the code cleanup / refactoring
