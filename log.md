@@ -373,3 +373,16 @@ Notes:
 * Added color animation on the loading screen
 
 * Continuing with the code cleanup / refactoring
+
+
+### Day 40: 2019-06-09
+
+* Added one more level
+
+* Updated the gameover popup
+
+* Added a "quick win" debugging option
+
+* Fixed all the code inspect warnings
+
+
