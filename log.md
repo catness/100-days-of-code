@@ -386,3 +386,13 @@ Notes:
 * Fixed all the code inspect warnings
 
 
+### Day 41: 2019-06-10
+
+* Replaced some fonts with Google Noto
+
+* Added more fonts
+
+* Fixed most of the lint warnings
+
+* More code cleanup (hardcoded strings, unnecessary logging, code duplication)
+
