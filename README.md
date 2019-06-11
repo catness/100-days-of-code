@@ -6,5 +6,7 @@ Update: it is done! I'll keep using the app, fixing the bugs as they come up, an
 
 Now starting another project - a shape-matching game with Unicode fonts (not match-3). I already have the prototype done in LibGDX, but I want to rewrite it in pure Android code, or at least to compare and see which version turns out better.
 
+Update: the game is done for now! I'll keep testing it; meanwhile, back to the Classroom app, to implement a couple of new ideas.
+
 If you've decided to join, see [the official repo](https://github.com/kallaway/100-days-of-code) with all the links, official rules and stuff. 
 

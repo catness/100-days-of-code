@@ -150,7 +150,7 @@ Note: the 9-patch png images can be re-colored in the image editor, but the 1-pi
 * Finished refactoring & cleanup for now
 
 
-## New project : shape game app
+## New project : the Unicode glyphs game app
 
 ### Day 17: 2019-05-17
 
@@ -396,3 +396,12 @@ Notes:
 
 * More code cleanup (hardcoded strings, unnecessary logging, code duplication)
 
+And that's all for the time being!
+
+## Project : Classroom points app again
+
+### Day 42: 2019-06-10
+
+* Added the Theme database object and implemented the interface
+
+* Added the Theme select/new/edit activities (without the actual levels yet)
