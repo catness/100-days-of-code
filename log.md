@@ -405,3 +405,9 @@ And that's all for the time being!
 * Added the Theme database object and implemented the interface
 
 * Added the Theme select/new/edit activities (without the actual levels yet)
+
+### Day 43: 2019-06-11
+
+* Added the Theme Levels database object and partially the interface
+
+* Added all the Theme related activities to prototype the workflow
