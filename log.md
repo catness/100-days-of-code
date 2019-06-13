@@ -411,3 +411,10 @@ And that's all for the time being!
 * Added the Theme Levels database object and partially the interface
 
 * Added all the Theme related activities to prototype the workflow
+
+### Day 44: 2019-06-12
+
+* Implemented all the Theme Levels workflow (except for the images)
+
+* Realized that the app is becoming too bloated! It has to support level packs, but the level editor should be a separate application (preferably desktop or web-based). 
+
