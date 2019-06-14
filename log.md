@@ -400,21 +400,28 @@ And that's all for the time being!
 
 ## Project : Classroom points app again
 
-### Day 42: 2019-06-10
+### Day 42: 2019-06-11
 
 * Added the Theme database object and implemented the interface
 
 * Added the Theme select/new/edit activities (without the actual levels yet)
 
-### Day 43: 2019-06-11
+### Day 43: 2019-06-12
 
 * Added the Theme Levels database object and partially the interface
 
 * Added all the Theme related activities to prototype the workflow
 
-### Day 44: 2019-06-12
+### Day 44: 2019-06-13
 
 * Implemented all the Theme Levels workflow (except for the images)
 
 * Realized that the app is becoming too bloated! It has to support level packs, but the level editor should be a separate application (preferably desktop or web-based). 
 
+### Day 45:  2019-06-14
+
+* Deleted the bloated theme packs code and updated it for the new format
+
+* Implemented uploading and unzipping a zip file with the .json theme file and the images
+
+* Implemented creating a new theme from the zip file (so far without the error checking etc)
