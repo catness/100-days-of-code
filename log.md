@@ -425,3 +425,12 @@ And that's all for the time being!
 * Implemented uploading and unzipping a zip file with the .json theme file and the images
 
 * Implemented creating a new theme from the zip file (so far without the error checking etc)
+
+### Day 46:  2019-06-15
+
+* Implemented the rest of the theme management: activate & use (show the theme images and titles), switch between themes, delete the theme with all the files
+
+* Checking for existing themes while uploading; rename the image directory if necessary
+
+* Changed the reset option to reset only the level
+
