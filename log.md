@@ -434,3 +434,40 @@ And that's all for the time being!
 
 * Changed the reset option to reset only the level
 
+
+### Day 47: 2019-06-16
+
+* Fixed the theme interface in the dark mode
+
+* Fixed unzipping the theme with a big json file
+
+* Added a theme comment field
+
+* Added checking for missing image files (save the message in comment)
+
+* Fixed the initial points display while the db is not loaded
+
+* Fixed the display of levels with missing images
+
+
+### Day 48: 2019-06-17
+
+* Added the setting to show/hide themes in the main menu
+
+* Fixed the db migration
+
+* Wrote a Python script to create a theme from a directory of images 
+
+* Wrote a Python script to create the country flags theme sorted by approx. population, using the population dataset
+
+
+
+
+
+
+
+
+
+
+
+
