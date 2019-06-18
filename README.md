@@ -8,5 +8,7 @@ Now starting another project - a shape-matching game with Unicode fonts (not mat
 
 Update: the game is done for now! I'll keep testing it; meanwhile, back to the Classroom app, to implement a couple of new ideas.
 
+Update: starting a new project - a desktop-based game (or a very low-level game development engine) in C++/SDL, in preparation for keeping up with the challenge on vacation, away from my computers, just with an old low-end laptop.
+
 If you've decided to join, see [the official repo](https://github.com/kallaway/100-days-of-code) with all the links, official rules and stuff. 
 

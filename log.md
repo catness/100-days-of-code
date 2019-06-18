@@ -461,6 +461,11 @@ And that's all for the time being!
 * Wrote a Python script to create the country flags theme sorted by approx. population, using the population dataset
 
 
+## Project : desktop game development in C++/SDL
+
+### Day 49: 2019-06-18
+
+* Created the initial setup for the project, reworking some old code
 
 
 
