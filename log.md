@@ -467,6 +467,10 @@ And that's all for the time being!
 
 * Created the initial setup for the project, reworking some old code
 
+### Day 50: 2019-06-19
+
+* Added the camera, scrolling and scaling the background
+
 
 
 
