@@ -472,7 +472,13 @@ And that's all for the time being!
 * Added the camera, scrolling and scaling the background
 
 
+### Day 51: 2019-06-20
 
+* Added background layers and parallax scrolling
+
+* Changed the world dimensions to be set up dynamically per scene
+
+* Cleared the confusion between the viewport and the screen
 
 
 
