@@ -471,7 +471,6 @@ And that's all for the time being!
 
 * Added the camera, scrolling and scaling the background
 
-
 ### Day 51: 2019-06-20
 
 * Added background layers and parallax scrolling
@@ -480,9 +479,6 @@ And that's all for the time being!
 
 * Cleared the confusion between the viewport and the screen
 
+### Day 52: 2019-06-21
 
-
-
-
-
-
+* Implemented objects in the scene (static images so far), with clickable hotspots
