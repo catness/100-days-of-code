@@ -482,3 +482,9 @@ And that's all for the time being!
 ### Day 52: 2019-06-21
 
 * Implemented objects in the scene (static images so far), with clickable hotspots
+
+### Day 53: 2019-06-22
+
+* Implemented sprites: animated objects (non-moving), and objects with several states.
+
+* Started implementing the object actions (on click).
