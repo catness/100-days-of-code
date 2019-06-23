@@ -488,3 +488,11 @@ And that's all for the time being!
 * Implemented sprites: animated objects (non-moving), and objects with several states.
 
 * Started implementing the object actions (on click).
+
+### Day 54: 2019-06-23
+
+* Added the avatar - an animated sprite controlled by arrows, simple movement so far.
+
+* Implemented the scene scrolling automatically when the avatar approaches the edge. 2 kinds: incremental (bit by bit while it's in the center) and immediate (like a page turn when it's at the edge).
+ 
+
