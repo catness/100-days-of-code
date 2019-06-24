@@ -495,4 +495,9 @@ And that's all for the time being!
 
 * Implemented the scene scrolling automatically when the avatar approaches the edge. 2 kinds: incremental (bit by bit while it's in the center) and immediate (like a page turn when it's at the edge).
  
+### Day 55: 2019-06-24
+
+* Fixed the scrolling to make it smooth, and with the same speed as the avatar.
+
+* Added collision detection with the room walking area and with the objects.
 
