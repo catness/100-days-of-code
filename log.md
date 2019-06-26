@@ -501,8 +501,16 @@ And that's all for the time being!
 
 * Added collision detection with the room walking area and with the objects.
 
- ### Day 56: 2019-06-25
+### Day 56: 2019-06-25
 
- * Wrote a Python script to create an atlas (with SDL map) for a spritesheet
+* Wrote a Python script to create an atlas (with SDL map) for a spritesheet
 
- * Added a platformer-type avatar (only the movement so far, no collision detection)
+* Added a platformer-type avatar (only the movement so far, no collision detection)
+
+### Day 57: 2019-06-26
+
+* Added collision detection with the room background (partially).
+
+* Fixed the mirrored spritesheet.
+
+* Fixed handling the scene edges, the scrolling, and the flying animation.
