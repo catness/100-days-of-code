@@ -514,3 +514,11 @@ And that's all for the time being!
 * Fixed the mirrored spritesheet.
 
 * Fixed handling the scene edges, the scrolling, and the flying animation.
+
+### Day 58: 2019-06-27
+
+* Improved the collision detection.
+
+* Fixed some more animation bugs.
+
+* Separated the code for adventure and platformer avatars, and added the compiler directive for easy switching.
