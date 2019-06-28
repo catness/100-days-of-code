@@ -522,3 +522,10 @@ And that's all for the time being!
 * Fixed some more animation bugs.
 
 * Separated the code for adventure and platformer avatars, and added the compiler directive for easy switching.
+
+### Day 59: 2019-06-28
+
+* Started to create the inventory system.
+
+* Added a "pickable" flag to pick an object on collision.
+
