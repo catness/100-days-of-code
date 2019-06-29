@@ -529,3 +529,8 @@ And that's all for the time being!
 
 * Added a "pickable" flag to pick an object on collision.
 
+### Day 60: 2019-06-29
+
+* Improved avatar/object collision in platformer mode.
+
+* Implemented adding objects to inventory, including the possibility of multiple copies of the same item. (But it's still more of a proof of concept, needs some serious reworking.)
