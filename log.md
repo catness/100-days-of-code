@@ -534,3 +534,7 @@ And that's all for the time being!
 * Improved avatar/object collision in platformer mode.
 
 * Implemented adding objects to inventory, including the possibility of multiple copies of the same item. (But it's still more of a proof of concept, needs some serious reworking.)
+
+### Day 61: 2019-06-30
+
+* Added the inventory screen overlay to display the items. (Very basic so far)
