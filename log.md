@@ -538,3 +538,9 @@ And that's all for the time being!
 ### Day 61: 2019-06-30
 
 * Added the inventory screen overlay to display the items. (Very basic so far)
+
+### Day 62: 2019-07-01
+
+* Optimized the inventory to preload all the items in the scene, instead of creating on the fly.
+
+* Added transparency and frame to the inventory overlay.  
