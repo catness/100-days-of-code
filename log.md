@@ -544,3 +544,7 @@ And that's all for the time being!
 * Optimized the inventory to preload all the items in the scene, instead of creating on the fly.
 
 * Added transparency and frame to the inventory overlay.  
+
+### Day 63: 2019-07-02
+
+* Started with the YAML parser to create the game definition file in a convenient format.
