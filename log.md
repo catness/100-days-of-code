@@ -548,3 +548,7 @@ And that's all for the time being!
 ### Day 63: 2019-07-02
 
 * Started with the YAML parser to create the game definition file in a convenient format.
+
+### Day 64: 2019-07-03
+
+* Implemented the YAML parser for creating rooms and static (so far) objects / inventory items. 
