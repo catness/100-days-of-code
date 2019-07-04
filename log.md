@@ -552,3 +552,7 @@ And that's all for the time being!
 ### Day 64: 2019-07-03
 
 * Implemented the YAML parser for creating rooms and static (so far) objects / inventory items. 
+
+### Day 65: 2019-07-04
+
+* Continuing with the YAML parser: added the handling of multiple copies of the same object, and the sprites.
