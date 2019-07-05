@@ -556,3 +556,7 @@ And that's all for the time being!
 ### Day 65: 2019-07-04
 
 * Continuing with the YAML parser: added the handling of multiple copies of the same object, and the sprites.
+ 
+ ### Day 66: 2019-07-05
+
+ * Yaml parser: added object/sprite action scripts, both embedded and as external files.
