@@ -574,3 +574,8 @@ And that's all for the time being!
 
 * Displaying a message box with object description upon right-clicking.
 
+### Day 69: 2019-07-08
+
+* Fixed the messagebox position to stay near the clicked hotspot, and within the boundaries of the screen.
+
+* Fixed calling the messagebox from object action scripts.
