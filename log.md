@@ -579,3 +579,8 @@ And that's all for the time being!
 * Fixed the messagebox position to stay near the clicked hotspot, and within the boundaries of the screen.
 
 * Fixed calling the messagebox from object action scripts.
+
+### Day 70: 2019-07-09
+
+* Started handling room exits: loading another scene when the avatar triggers the hotspots. 
+
