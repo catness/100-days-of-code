@@ -584,3 +584,10 @@ And that's all for the time being!
 
 * Started handling room exits: loading another scene when the avatar triggers the hotspots. 
 
+### Day 71: 2019-07-10
+
+* Added unlocking a locked exit upon picking an item
+
+* Added picking items on click (for adventure mode)
+
+* Started adding global settings (so far pick on click / pick on collision)
