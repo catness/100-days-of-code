@@ -591,3 +591,8 @@ And that's all for the time being!
 * Added picking items on click (for adventure mode)
 
 * Started adding global settings (so far pick on click / pick on collision)
+
+
+### Day 72: 2019-07-11
+
+* Select/deselect an inventory object, and drag the currently selected object around the screen.
