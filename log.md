@@ -596,3 +596,10 @@ And that's all for the time being!
 ### Day 72: 2019-07-11
 
 * Select/deselect an inventory object, and drag the currently selected object around the screen.
+
+### Day 73: 2019-07-12
+
+* Using an inventory object on a scene object (via the object action script)
+
+* Fixed the draggable inventory image dimensions 
+
