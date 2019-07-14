@@ -557,7 +557,7 @@ And that's all for the time being!
 
 * Continuing with the YAML parser: added the handling of multiple copies of the same object, and the sprites.
  
- ### Day 66: 2019-07-05
+### Day 66: 2019-07-05
 
  * Yaml parser: added object/sprite action scripts, both embedded and as external files.
 
@@ -602,4 +602,21 @@ And that's all for the time being!
 * Using an inventory object on a scene object (via the object action script)
 
 * Fixed the draggable inventory image dimensions 
+
+
+### Day 74: 2019-07-13
+
+* Added item counter to the inventory window
+
+* Started implementing using inventory items on other items
+
+### Day 75: 2019-07-14
+
+* Implemented the mechanism of using inventory items on other items
+
+* Added the inventory item-on-item action scripts to the yaml parser
+
+* Fixed the message position for inventory actions
+
+
 
