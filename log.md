@@ -619,4 +619,12 @@ And that's all for the time being!
 * Fixed the message position for inventory actions
 
 
+### Day 76: 2019-07-15
+
+* Added the close-up item view for inventory screen
+
+* Fixed the distinction between the item icon and close-up image 
+
+* Fixed the multi-line item description in closeups
+
 
