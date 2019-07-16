@@ -628,3 +628,7 @@ And that's all for the time being!
 * Fixed the multi-line item description in closeups
 
 
+### Day 77: 2019-07-16
+
+* Experimented with connecting the pathfinder algorithm for the avatar to follow the mouse clicks. So far it's too slow.
+
