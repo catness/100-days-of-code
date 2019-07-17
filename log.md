@@ -632,3 +632,8 @@ And that's all for the time being!
 
 * Experimented with connecting the pathfinder algorithm for the avatar to follow the mouse clicks. So far it's too slow.
 
+### Day 78: 2019-07-17
+
+* Fixed the pathfinder's performance and implemented the walking
+
+* Fixed the avatar's facing direction while walking the path
