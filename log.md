@@ -642,3 +642,9 @@ Notes:
   * [The pathfinder algorithm I used](https://github.com/ActiveState/code/blob/master/recipes/C%2B%2B/577457_Astar_Shortest_Path_Algorithm/recipe-577457.cpp)
   * [Bresenham line algorithm](https://stackoverflow.com/a/32252934) which I use to find a reachable target when the original target is in the unreachable zone
 
+### Day 79: 2019-07-18
+
+* Fixed the pathfinder to take into account the objects in the room (besides the walkable areas).
+
+* Added auto-scrolling and exiting to other rooms when following the path from the pathfinder.
+ 
