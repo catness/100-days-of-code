@@ -648,3 +648,6 @@ Notes:
 
 * Added auto-scrolling and exiting to other rooms when following the path from the pathfinder.
  
+### Day 80: 2019-07-19
+
+* Started to add the option of trajectories for NPCs to follow.
