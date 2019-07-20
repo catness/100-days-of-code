@@ -651,3 +651,18 @@ Notes:
 ### Day 80: 2019-07-19
 
 * Started to add the option of trajectories for NPCs to follow.
+
+
+### Day 81: 2019-07-20
+
+* Implemented the NPC trajectories (loop and back&forth modes)
+
+* Added trajectory handling to YAML parser
+
+* Wrote a Python script to generate a simple line trajectory for testing
+
+* Fixed the atlas-creating script to work with the older version of PIL
+
+* Added the "hidden" property to objects
+
+
