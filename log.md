@@ -665,4 +665,9 @@ Notes:
 
 * Added the "hidden" property to objects
 
+### Day 82: 2019-07-21
+
+* Added another trajectory type: one-off, with the NPC optionally disappearing from the screen
+
+* Started adapting the trajectory drawing utility (my old code) for the new trajectory format
 
