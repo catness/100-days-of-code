@@ -671,3 +671,11 @@ Notes:
 
 * Started adapting the trajectory drawing utility (my old code) for the new trajectory format
 
+### Day 83: 2019-07-22
+
+* Completed the trajectory utility (for now).
+
+* Added a test NPC going in circles.
+
+* Added the delay option to pause at certain nodes.
+
