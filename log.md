@@ -679,3 +679,9 @@ Notes:
 
 * Added the delay option to pause at certain nodes.
 
+### Day 84: 2019-07-23
+
+* Added all the options to the trajectory utility (different types of trajectories, direction etc), with the keyboard shortcuts to change them interactively.
+
+* Implemented speed option for trajectories.
+ 
