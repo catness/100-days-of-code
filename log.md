@@ -685,3 +685,7 @@ Notes:
 
 * Implemented speed option for trajectories.
  
+ ### Day 85: 2019-07-24
+
+ * Started with the dialogue trees. So far the concept doesn't work.
+ 
