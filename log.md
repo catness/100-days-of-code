@@ -687,5 +687,10 @@ Notes:
  
  ### Day 85: 2019-07-24
 
- * Started with the dialogue trees. So far the concept doesn't work.
+* Started with the dialogue trees. So far the concept doesn't work.
  
+### Day 86: 2019-07-25
+
+* Partially adopted my old dialogue tree code. So far it displays the first dialogue node menu.
+
+* Added the list of properties for objects.
