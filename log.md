@@ -685,7 +685,7 @@ Notes:
 
 * Implemented speed option for trajectories.
  
- ### Day 85: 2019-07-24
+### Day 85: 2019-07-24
 
 * Started with the dialogue trees. So far the concept doesn't work.
  
@@ -694,3 +694,10 @@ Notes:
 * Partially adopted my old dialogue tree code. So far it displays the first dialogue node menu.
 
 * Added the list of properties for objects.
+
+### Day 87: 2019-07-26
+
+* Made the dialogue trees working with the help of my old code - it will do for the start.
+
+
+
