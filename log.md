@@ -699,5 +699,9 @@ Notes:
 
 * Made the dialogue trees working with the help of my old code - it will do for the start.
 
+### Day 88: 2019-07-27
+
+* Added the dialogue trees to the YAML parser.
+
 
 
