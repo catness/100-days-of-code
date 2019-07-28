@@ -703,5 +703,10 @@ Notes:
 
 * Added the dialogue trees to the YAML parser.
 
+### Day 89: 2019-07-28
+
+* Added the include option into yaml files (via pyyaml-include). 
+
+* Added the speaker icons for dialogues.
 
 
