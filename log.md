@@ -711,7 +711,7 @@ Notes:
 
 ### Day 90: 2019-07-29
 
-* Fixed the position of the speaker icons and the dialogue appearance.
+* Fixed the position of the speaker icons and the dialogue window size.
 
 * Tried to change the dialogue position to the position of the corresponding object, but in the end didn't like how it looks, and changed it back to the center.
 
