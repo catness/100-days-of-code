@@ -709,4 +709,9 @@ Notes:
 
 * Added the speaker icons for dialogues.
 
+### Day 90: 2019-07-29
+
+* Fixed the position of the speaker icons and the dialogue appearance.
+
+* Tried to change the dialogue position to the position of the corresponding object, but in the end didn't like how it looks, and changed it back to the center.
 
