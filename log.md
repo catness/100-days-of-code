@@ -715,3 +715,10 @@ Notes:
 
 * Tried to change the dialogue position to the position of the corresponding object, but in the end didn't like how it looks, and changed it back to the center.
 
+### Day 91: 2019-07-30
+
+* Fixed the problem with pyyaml-include refusing to install on an older system (adapted the sources from github)
+
+* Added a section in the yaml file for the objects not tied to any room
+
+* Added an option of preloading items into inventory + arbitrary amount
