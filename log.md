@@ -722,3 +722,12 @@ Notes:
 * Added a section in the yaml file for the objects not tied to any room
 
 * Added an option of preloading items into inventory + arbitrary amount
+
+### Day 92: 2019-07-31
+
+* Wrote a Python script to create a yaml section with inventory items from all the image files in a directory
+
+* Added a bunch of new inventory items for debugging
+
+* Fixed a few bugs with inventory screen
+
