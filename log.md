@@ -731,3 +731,6 @@ Notes:
 
 * Fixed a few bugs with inventory screen
 
+### Day 93: 2019-08-01
+
+* Implemented inventory screen scrolling: with scrollwheel - sort of smooth, and with keys - row by row.
