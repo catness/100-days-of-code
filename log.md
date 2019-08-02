@@ -734,3 +734,7 @@ Notes:
 ### Day 93: 2019-08-01
 
 * Implemented inventory screen scrolling: with scrollwheel - sort of smooth, and with keys - row by row.
+
+### Day 94: 2019-08-02
+
+* Fixed the inventory scrolling bugs (stuck item counts, rows cut in half) and improved the panel appearance (spacing, centering).
