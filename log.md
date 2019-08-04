@@ -743,3 +743,8 @@ Notes:
 
 * Added a vertical scrollbar for the inventory panel
 
+### Day 96: 2019-08-04
+
+* Fixed the bug with line-by-line scrolling and connected it to the scrollbar.
+
+* Tried to add the top and bottom thingies on the scrollbar for clicking, but they looked too ugly, so abandoned this idea for now.
