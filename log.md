@@ -748,3 +748,9 @@ Notes:
 * Fixed the bug with line-by-line scrolling and connected it to the scrollbar.
 
 * Tried to add the top and bottom thingies on the scrollbar for clicking, but they looked too ugly, so abandoned this idea for now.
+
+### Day 97: 2019-08-05
+
+* Fixed another scrolling bug which showed up with different screen resolutions.
+
+* Added the main menu with a few (so far empty) submenus.
