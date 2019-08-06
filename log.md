@@ -754,3 +754,7 @@ Notes:
 * Fixed another scrolling bug which showed up with different screen resolutions.
 
 * Added the main menu with a few (so far empty) submenus.
+
+### Day 98: 2019-08-06
+
+* Added the config file, so far only the resolution option (so I don't have to recompile anymore when testing the game in different resolutions!)
