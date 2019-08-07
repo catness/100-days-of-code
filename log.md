@@ -758,3 +758,15 @@ Notes:
 ### Day 98: 2019-08-06
 
 * Added the config file, so far only the resolution option (so I don't have to recompile anymore when testing the game in different resolutions!)
+
+### Day 99: 2019-08-07
+
+* Added background music - one file per scene (a new field in the game YAML file).
+
+* Added the music settings (on/off and the volume) to the config file.
+
+* Fixed the menu "start" button to return to the current scene.
+
+
+
+
