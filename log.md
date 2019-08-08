@@ -767,6 +767,11 @@ Notes:
 
 * Fixed the menu "start" button to return to the current scene.
 
+### Day 100: 2019-08-08
 
+* Added sound effects as 2 sample options: global (item pickup) and item/action specific (in the item script). 
 
+* Added the sound settings to the config file.
+
+* Added a closeup panel to interact with some items on the scene in a more specific way. Added input of alphanumeric characters (e.g. for passwords).
 
